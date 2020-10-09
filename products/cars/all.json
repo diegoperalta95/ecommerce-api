@@ -4,7 +4,7 @@
         "description": "Generación 2019, variedad de colores. Motor 1.0, ideal para ciudad.",
         "cost": 13500,
         "currency": "USD",
-        "imgSrc": "cars/img/prod1.jpg",
+        "imgSrc": "img/cars/prod1.jpg",
         "soldCount": 14
     },
     {
@@ -12,7 +12,7 @@
         "description": "La versión de Fiat que brinda confort y a un precio accesible.",
         "cost": 14500,
         "currency": "USD",
-        "imgSrc": "cars/img/prod2.jpg",
+        "imgSrc": "img/cars/prod2.jpg",
         "soldCount": 52
     },
     {
@@ -20,7 +20,7 @@
         "description": "Un auto que se ha ganado la buena fama por su economía con el combustible.",
         "cost": 12500,
         "currency": "USD",
-        "imgSrc": "cars/img/prod3.jpg",
+        "imgSrc": "img/cars/prod3.jpg",
         "soldCount": 25
     },
     {
@@ -28,7 +28,7 @@
         "description": "El modelo de auto que se sigue renovando y manteniendo su prestigio en comodidad.",
         "cost": 15200,
         "currency": "USD",
-        "imgSrc": "cars/img/prod4.jpg",
+        "imgSrc": "img/cars/prod4.jpg",
         "soldCount": 17
     },
     {
@@ -36,7 +36,7 @@
         "description": "Un city car con un look exterior robusto. Esa es la primera impresión al ver el Mobi, ya que une conceptos de diseño premium y elementos que refuerzan la personalidad del vehículo.",
         "cost": 13290,
         "currency": "USD",
-        "imgSrc": "cars/img/prod5.jpg",
+        "imgSrc": "img/cars/prod5.jpg",
         "soldCount": 25
     },
     {
@@ -44,7 +44,7 @@
         "description": "Strada Volcano es una pick up robusta, confiable y con excelente capacidad de carga (650 kg).",
         "cost": 18590,
         "currency": "USD",
-        "imgSrc": "cars/img/prod6.jpg",
+        "imgSrc": "img/cars/prod6.jpg",
         "soldCount": 5
     },
     {
@@ -52,7 +52,7 @@
         "description": "Su diseño deportivo atrapa todas las miradas, y su tecnología HEARTECT hace la diferencia al ser una plataforma exclusiva de última generación que mejora la estructura del auto, la seguridad y lo hace mucho más liviano.",
         "cost": 15490,
         "currency": "USD",
-        "imgSrc": "cars/img/prod7.jpg",
+        "imgSrc": "img/cars/prod7.jpg",
         "soldCount": 57
     },
     {
@@ -60,7 +60,7 @@
         "description": "El totalmente nuevo Chevrolet Onix, desafía el status quo de su segmento con características nunca vistas que hacen de él una primera impresión inolvidable.",
         "cost": 16490,
         "currency": "USD",
-        "imgSrc": "cars/img/prod8.jpg",
+        "imgSrc": "img/cars/prod8.jpg",
         "soldCount": 11
     },
     {
@@ -68,7 +68,7 @@
         "description": "Sabemos lo que quieres y es por eso que La Nueva Tracker Turbo te ayudará a lograrlo. Con su estilo exterior dinámico y detalles interiores bien pensados, Tracker es la compañera perfecta para aprovechar cada momento, porque no se adapta al mundo, evoluciona para moverse en él.",
         "cost": 26490,
         "currency": "USD",
-        "imgSrc": "cars/img/prod9.jpg",
+        "imgSrc": "img/cars/prod9.jpg",
         "soldCount": 23
     },
     {
@@ -76,7 +76,7 @@
         "description": "Estilo, Técnologia, Confort, Performance, estilo deportivo y seguridad. Más que seis palabras, estos son seis atributos que definen al Fiat Argo, el nuevo modelo  que da aún más fuerza a la nueva fase de la marca Fiat.",
         "cost": 18390,
         "currency": "USD",
-        "imgSrc": "cars/img/prod10.jpg",
+        "imgSrc": "img/cars/prod10.jpg",
         "soldCount": 44
     },
     {
@@ -84,7 +84,7 @@
         "description": "El motor 1.4 Fire Evo ofrece un óptimo desempeño y bajo consumo de combustible y manutención. La transmisión manual es hasta 5 velocidades.",
         "cost": 15790,
         "currency": "USD",
-        "imgSrc": "cars/img/prod11.jpg",
+        "imgSrc": "img/cars/prod11.jpg",
         "soldCount": 25
     },
     {
@@ -92,7 +92,7 @@
         "description": "All New Chevrolet Captiva llega para desafiar todas las expectativas de lo que se espera de una SUV. Más allá de su atractivo diseño, tiene el espacio suficiente para todo y todos, gracias a su capacidad para 5 o 7 pasajeros. Está equipada con tecnología superior y atributos avanzados de seguridad.",
         "cost": 28000,
         "currency": "USD",
-        "imgSrc": "cars/img/prod12.jpg",
+        "imgSrc": "img/cars/prod12.jpg",
         "soldCount": 13
     },
     {
@@ -100,7 +100,7 @@
         "description": "KWID ofrece un estilo disruptivo dentro del segmento. ¡Ya no vas a tener que elegir entre un auto robusto o compacto!. KWID combina la practicidad de un compacto y el diseño de un SUV para que lleves tu experiencia de manejo a otro nivel.",
         "cost": 11990,
         "currency": "USD",
-        "imgSrc": "cars/img/prod13.jpg",
+        "imgSrc": "img/cars/prod13.jpg",
         "soldCount": 58
     },
     {
@@ -108,7 +108,7 @@
         "description": "Fiat Toro, en su versión Freedom 1.8 AT6, se presenta en el mercado uruguayo con su distinguido diseño innovador, moderno y elegante, pero a la vez robusto, ágil y funcional.",
         "cost": 21303,
         "currency": "USD",
-        "imgSrc": "cars/img/prod14.jpg",
+        "imgSrc": "img/cars/prod14.jpg",
         "soldCount": 15
     },
     {
@@ -116,7 +116,7 @@
         "description": "Esta versión, la más austera, es la única disponible con motor de 160 CV y un único turbo que, con buen funcionamiento y consumo moderado, le permite obtener prestaciones acordes. Es, además, la chata base que menos “pierde” con respecto a las full dentro del segmento.",
         "cost": 24388,
         "currency": "USD",
-        "imgSrc": "cars/img/prod15.jpg",
+        "imgSrc": "img/cars/prod15.jpg",
         "soldCount": 32
     }
     
