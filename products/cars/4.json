@@ -6,11 +6,11 @@
     "soldCount": 25,
     "category": "Autos",
     "images": [
-        "img/prod5.jpg",
-        "img/prod5_1.jpg",
-        "img/prod5_2.jpg",
-        "img/prod5_3.jpg",
-        "img/prod5_4.jpg"
+        "img/cars/prod5.jpg",
+        "img/cars/prod5_1.jpg",
+        "img/cars/prod5_2.jpg",
+        "img/cars/prod5_3.jpg",
+        "img/cars/prod5_4.jpg"
     ],
     "tech": {
         "model"    : "Mobi 2018",

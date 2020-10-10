@@ -6,11 +6,11 @@
     "soldCount": 32,
     "category": "Autos",
     "images": [
-        "img/prod15.jpg",
-        "img/prod15_1.jpg",
-        "img/prod15_2.jpg",
-        "img/prod15_3.jpg",
-        "img/prod15_4.jpg"
+        "img/cars/prod15.jpg",
+        "img/cars/prod15_1.jpg",
+        "img/cars/prod15_2.jpg",
+        "img/cars/prod15_3.jpg",
+        "img/cars/prod15_4.jpg"
     ],
     "tech": {
         "model"    : "Frontier S 2019",

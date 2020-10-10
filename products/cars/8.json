@@ -6,11 +6,11 @@
     "soldCount": 23,
     "category": "Autos",
     "images": [
-        "img/prod9.jpg",
-        "img/prod9_1.jpg",
-        "img/prod9_2.jpg",
-        "img/prod9_3.jpg",
-        "img/prod9_4.jpg"
+        "img/cars/prod9.jpg",
+        "img/cars/prod9_1.jpg",
+        "img/cars/prod9_2.jpg",
+        "img/cars/prod9_3.jpg",
+        "img/cars/prod9_4.jpg"
     ],
     "tech": {
         "model"    : "LS MT 2020",

@@ -6,11 +6,11 @@
     "soldCount": 11,
     "category": "Autos",
     "images": [
-        "img/prod8.jpg",
-        "img/prod8_1.jpg",
-        "img/prod8_2.jpg",
-        "img/prod8_3.jpg",
-        "img/prod8_4.jpg"
+        "img/cars/prod8.jpg",
+        "img/cars/prod8_1.jpg",
+        "img/cars/prod8_2.jpg",
+        "img/cars/prod8_3.jpg",
+        "img/cars/prod8_4.jpg"
     ],
     "tech": {
         "model"    : "LS 2020",

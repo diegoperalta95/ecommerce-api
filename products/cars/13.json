@@ -6,11 +6,11 @@
     "soldCount": 15,
     "category": "Autos",
     "images": [
-        "img/prod14.jpg",
-        "img/prod14_1.jpg",
-        "img/prod14_2.jpg",
-        "img/prod14_3.jpg",
-        "img/prod14_4.jpg"
+        "img/cars/prod14.jpg",
+        "img/cars/prod14_1.jpg",
+        "img/cars/prod14_2.jpg",
+        "img/cars/prod14_3.jpg",
+        "img/cars/prod14_4.jpg"
     ],
     "tech": {
         "model"    : "Toro 1.8 Freedom",

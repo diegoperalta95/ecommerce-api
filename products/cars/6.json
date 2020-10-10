@@ -6,11 +6,11 @@
     "soldCount": 57,
     "category": "Autos",
     "images": [
-        "img/prod7.jpg",
-        "img/prod7_1.jpg",
-        "img/prod7_2.jpg",
-        "img/prod7_3.jpg",
-        "img/prod7_4.jpg"
+        "img/cars/prod7.jpg",
+        "img/cars/prod7_1.jpg",
+        "img/cars/prod7_2.jpg",
+        "img/cars/prod7_3.jpg",
+        "img/cars/prod7_4.jpg"
     ],
     "tech": {
         "model"    : "2018",

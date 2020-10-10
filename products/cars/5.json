@@ -6,11 +6,11 @@
     "soldCount": 5,
     "category": "Autos",
     "images": [
-        "img/prod6.jpg",
-        "img/prod6_1.jpg",
-        "img/prod6_2.jpg",
-        "img/prod6_3.jpg",
-        "img/prod6_4.jpg"
+        "img/cars/prod6.jpg",
+        "img/cars/prod6_1.jpg",
+        "img/cars/prod6_2.jpg",
+        "img/cars/prod6_3.jpg",
+        "img/cars/prod6_4.jpg"
     ],
     "tech": {
         "model"    : "2020",

@@ -6,11 +6,11 @@
     "soldCount": 58,
     "category": "Autos",
     "images": [
-        "img/prod13.jpg",
-        "img/prod13_1.jpg",
-        "img/prod13_2.jpg",
-        "img/prod13_3.jpg",
-        "img/prod13_4.jpg"
+        "img/cars/prod13.jpg",
+        "img/cars/prod13_1.jpg",
+        "img/cars/prod13_2.jpg",
+        "img/cars/prod13_3.jpg",
+        "img/cars/prod13_4.jpg"
     ],
     "tech": {
         "model"    : "Intens 2020",
