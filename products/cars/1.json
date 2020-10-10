@@ -1,0 +1,24 @@
+{
+    "name": "Fiat Way",
+    "description": "La versión de Fiat que brinda confort y a un precio accesible.",
+    "cost": 14500,
+    "currency": "USD",
+    "soldCount": 52,
+    "category": "Autos",
+    "images": [
+        "img/prod2.jpg",
+        "img/prod2_1.jpg",
+        "img/prod2_2.jpg",
+        "img/prod2_3.jpg",
+        "img/prod2_4.jpg"
+    ],
+    "tech": {
+        "model"    : "Uno 2019",
+        "cyl"      : "1368cc",
+        "accel"    : "11.8s",
+        "maxVel"   : "165km/h",
+        "capacity" : "48L",
+        "power"    : "98CV"
+    },
+    "relatedProducts": [4,5,9,10,13]
+}

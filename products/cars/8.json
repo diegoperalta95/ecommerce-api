@@ -1,0 +1,24 @@
+{
+    "name": "Chevrolet Tracker LS MT",
+    "description": "Sabemos lo que quieres y es por eso que La Nueva Tracker Turbo te ayudará a lograrlo. Con su estilo exterior dinámico y detalles interiores bien pensados, Tracker es la compañera perfecta para aprovechar cada momento, porque no se adapta al mundo, evoluciona para moverse en él.",
+    "cost": 26490,
+    "currency": "USD",
+    "soldCount": 23,
+    "category": "Autos",
+    "images": [
+        "img/prod9.jpg",
+        "img/prod9_1.jpg",
+        "img/prod9_2.jpg",
+        "img/prod9_3.jpg",
+        "img/prod9_4.jpg"
+    ],
+    "tech": {
+        "model"    : "LS MT 2020",
+        "cyl"      : "1199cc",
+        "accel"    : "10.9s",
+        "maxVel"   : "N/D",
+        "capacity" : "44L",
+        "power"    : "131CV"
+    },
+    "relatedProducts": [0,7,11]
+}

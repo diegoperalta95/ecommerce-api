@@ -1,0 +1,24 @@
+{
+    "name": "Chevrolet Onix LS",
+    "description": "El totalmente nuevo Chevrolet Onix, desafía el status quo de su segmento con características nunca vistas que hacen de él una primera impresión inolvidable.",
+    "cost": 16490,
+    "currency": "USD",
+    "soldCount": 11,
+    "category": "Autos",
+    "images": [
+        "img/prod8.jpg",
+        "img/prod8_1.jpg",
+        "img/prod8_2.jpg",
+        "img/prod8_3.jpg",
+        "img/prod8_4.jpg"
+    ],
+    "tech": {
+        "model"    : "LS 2020",
+        "cyl"      : "1450cc",
+        "accel"    : "13.1s",
+        "maxVel"   : "177km/h",
+        "capacity" : "55L",
+        "horse"    : "90CV"
+    },
+    "relatedProducts": [0,8,11]
+}

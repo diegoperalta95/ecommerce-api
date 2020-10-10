@@ -1,0 +1,24 @@
+{
+    "name": "Renault Kwid",
+    "description": "KWID ofrece un estilo disruptivo dentro del segmento. ¡Ya no vas a tener que elegir entre un auto robusto o compacto!. KWID combina la practicidad de un compacto y el diseño de un SUV para que lleves tu experiencia de manejo a otro nivel.",
+    "cost": 11990,
+    "currency": "USD",
+    "soldCount": 58,
+    "category": "Autos",
+    "images": [
+        "img/prod13.jpg",
+        "img/prod13_1.jpg",
+        "img/prod13_2.jpg",
+        "img/prod13_3.jpg",
+        "img/prod13_4.jpg"
+    ],
+    "tech": {
+        "model"    : "Intens 2020",
+        "cyl"      : "999cc",
+        "accel"    : "15.5s",
+        "maxVel"   : "150km/h",
+        "capacity" : "N/D",
+        "power"    : "66CV"
+    },
+    "relatedProducts": [3,6,8]
+}

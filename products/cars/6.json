@@ -1,0 +1,24 @@
+{
+    "name": "Suzuki Swift GL",
+    "description": "Su diseño deportivo atrapa todas las miradas, y su tecnología HEARTECT hace la diferencia al ser una plataforma exclusiva de última generación que mejora la estructura del auto, la seguridad y lo hace mucho más liviano.",
+    "cost": 15490,
+    "currency": "USD",
+    "soldCount": 57,
+    "category": "Autos",
+    "images": [
+        "img/prod7.jpg",
+        "img/prod7_1.jpg",
+        "img/prod7_2.jpg",
+        "img/prod7_3.jpg",
+        "img/prod7_4.jpg"
+    ],
+    "tech": {
+        "model"    : "2018",
+        "cyl"      : "1197cc",
+        "accel"    : "12.7s",
+        "maxVel"   : "180km/h",
+        "capacity" : "33L",
+        "power"    : "85CV"
+    },
+    "relatedProducts": [2,14]
+}

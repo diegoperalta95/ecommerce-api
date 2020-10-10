@@ -1,0 +1,24 @@
+{
+    "name": "Fiat Toro Freedom",
+    "description": "Fiat Toro, en su versión Freedom 1.8 AT6, se presenta en el mercado uruguayo con su distinguido diseño innovador, moderno y elegante, pero a la vez robusto, ágil y funcional.",
+    "cost": 21303,
+    "currency": "USD",
+    "soldCount": 15,
+    "category": "Autos",
+    "images": [
+        "img/prod14.jpg",
+        "img/prod14_1.jpg",
+        "img/prod14_2.jpg",
+        "img/prod14_3.jpg",
+        "img/prod14_4.jpg"
+    ],
+    "tech": {
+        "model"    : "Toro 1.8 Freedom",
+        "cyl"      : "1747cc",
+        "accel"    : "14.3s",
+        "maxVel"   : "176km/h",
+        "capacity" : "60L",
+        "power"    : "130CV"
+    },
+    "relatedProducts": [1,5,4,9,10,13]
+}

@@ -1,0 +1,24 @@
+{
+    "name": "Peugeot 208",
+    "description": "El modelo de auto que se sigue renovando y manteniendo su prestigio en comodidad.",
+    "cost": 15200,
+    "currency": "USD",
+    "soldCount": 17,
+    "category": "Autos",
+    "images": [
+        "img/prod4.jpg",
+        "img/prod4_1.jpg",
+        "img/prod4_2.jpg",
+        "img/prod4_3.jpg",
+        "img/prod4_4.jpg"
+    ],
+    "tech": {
+        "model"    : "Allure 2016",
+        "cyl"      : "1450cc",
+        "accel"    : "13.1s",
+        "maxVel"   : "177km/h",
+        "capacity" : "55L",
+        "power"    : "90CV"
+    },
+    "relatedProducts": [1,6]
+}

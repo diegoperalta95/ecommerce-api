@@ -1,0 +1,24 @@
+{
+    "name": "Fiat Argo",
+    "description": "Estilo, Técnologia, Confort, Performance, estilo deportivo y seguridad. Más que seis palabras, estos son seis atributos que definen al Fiat Argo, el nuevo modelo  que da aún más fuerza a la nueva fase de la marca Fiat.",
+    "cost": 18390,
+    "currency": "USD",
+    "soldCount": 44,
+    "category": "Autos",
+    "images": [
+        "img/prod10.jpg",
+        "img/prod10_1.jpg",
+        "img/prod10_2.jpg",
+        "img/prod10_3.jpg",
+        "img/prod10_4.jpg"
+    ],
+    "tech": {
+        "model"    : "2020",
+        "cyl"      : "999cc",
+        "accel"    : "N/D",
+        "maxVel"   : "N/D",
+        "capacity" : "48L",
+        "power"    : "77CV"
+    },
+    "relatedProducts": [1,5,4,10,13]
+}

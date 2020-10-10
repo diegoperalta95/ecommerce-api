@@ -1,0 +1,24 @@
+{
+    "name": "Fiat Strada Volcano",
+    "description": "Strada Volcano es una pick up robusta, confiable y con excelente capacidad de carga (650 kg).",
+    "cost": 20590,
+    "currency": "USD",
+    "soldCount": 5,
+    "category": "Autos",
+    "images": [
+        "img/prod6.jpg",
+        "img/prod6_1.jpg",
+        "img/prod6_2.jpg",
+        "img/prod6_3.jpg",
+        "img/prod6_4.jpg"
+    ],
+    "tech": {
+        "model"    : "2020",
+        "cyl"      : "1332cc",
+        "accel"    : "12.4s",
+        "maxVel"   : "165km/h",
+        "capacity" : "55L",
+        "power"    : "99CV"
+    },
+    "relatedProducts": [1,4,9,10,13]
+}

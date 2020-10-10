@@ -1,0 +1,24 @@
+{
+    "name": "Fiat Mobi",
+    "description": "Un city car con un look exterior robusto. Esa es la primera impresión al ver el Mobi, ya que une conceptos de diseño premium y elementos que refuerzan la personalidad del vehículo.",
+    "cost": 13290,
+    "currency": "USD",
+    "soldCount": 25,
+    "category": "Autos",
+    "images": [
+        "img/prod5.jpg",
+        "img/prod5_1.jpg",
+        "img/prod5_2.jpg",
+        "img/prod5_3.jpg",
+        "img/prod5_4.jpg"
+    ],
+    "tech": {
+        "model"    : "Mobi 2018",
+        "cyl"      : "999cc",
+        "accel"    : "14.7s",
+        "maxVel"   : "150km/h",
+        "capacity" : "47L",
+        "power"    : "70CV"
+    },
+    "relatedProducts": [1,5,9,10,13]
+}

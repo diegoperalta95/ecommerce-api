@@ -1,0 +1,24 @@
+{
+    "name": "Fiat Siena",
+    "description": "El motor 1.4 Fire Evo ofrece un óptimo desempeño y bajo consumo de combustible y manutención. La transmisión manual es hasta 5 velocidades.",
+    "cost": 15790,
+    "currency": "USD",
+    "soldCount": 25,
+    "category": "Autos",
+    "images": [
+        "img/prod11.jpg",
+        "img/prod11_1.jpg",
+        "img/prod11_2.jpg",
+        "img/prod11_3.jpg",
+        "img/prod11_4.jpg"
+    ],
+    "tech": {
+        "model"    : "2020",
+        "cyl"      : "1368cc",
+        "accel"    : "13s",
+        "maxVel"   : "165km/h",
+        "capacity" : "48L",
+        "power"    : "87CV"
+    },
+    "relatedProducts": [1,5,9,4,13]
+}
