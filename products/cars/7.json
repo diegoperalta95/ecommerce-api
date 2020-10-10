@@ -18,7 +18,7 @@
         "accel"    : "13.1s",
         "maxVel"   : "177km/h",
         "capacity" : "55L",
-        "horse"    : "90CV"
+        "power"    : "90CV"
     },
     "relatedProducts": [0,8,11]
 }
